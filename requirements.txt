@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+sentence-transformers
+faiss-cpu
