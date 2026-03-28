@@ -80,4 +80,4 @@ Open: http://localhost:3000
 
 ## 👨‍💻 Author
 
-Anshu Kumar Singh
+Anshu Kumar Roy
